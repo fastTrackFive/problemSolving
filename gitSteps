@@ -1,0 +1,7 @@
+git instructions
+to take changes from remote repo to ur local repo
+1)to pull changes
+git pull fast master
+where fast is alias for ur remote repository problemSolving name and master is ur local branch
+2)to push changes 
+git push fast master
